@@ -16,28 +16,20 @@ output:
       ratio: "16:9"
 ---
 
+# Slides & code
+
 ```{r xaringan-tile-view, echo=FALSE}
 xaringanExtra::use_tile_view()
 ```
 
-.row[
-
-.col-8[
-
-* [bit.ly/isec-rad](https://bit.ly/isec-rad)
-
-]
-
-.col-4[
+* GitHub repo: [bit.ly/rad-gam](https://bit.ly/radgam)
+* Slides: [bit.ly/isec-rad](https://bit.ly/isec-rad)
 
 .center[
 
-```{r, fig.align = "center", out.width="90%", echo=FALSE}
+```{r, fig.align = "center", out.width="45%", echo = FALSE}
 knitr::include_graphics("resources/bit.ly_isec-rad.png")
 ```
-]
-
-]
 
 ]
 
