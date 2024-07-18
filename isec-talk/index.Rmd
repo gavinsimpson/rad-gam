@@ -24,7 +24,7 @@ xaringanExtra::use_tile_view()
 
 .col-8[
 
-* [bit.ly/water-talk-2024](https://bit.ly/water-talk-2024)
+* [bit.ly/isec-rad](https://bit.ly/isec-rad)
 
 ]
 
@@ -33,7 +33,7 @@ xaringanExtra::use_tile_view()
 .center[
 
 ```{r, fig.align = "center", out.width="90%", echo=FALSE}
-knitr::include_graphics("resources/bit.ly_water-talk-2024.png")
+knitr::include_graphics("resources/bit.ly_isec-rad.png")
 ```
 ]
 
@@ -668,11 +668,11 @@ fv_lowe_rank_ts |>
 
 Mail: gavin@anivet.au.dk
 
-[github.com/gavinsimpson/ecos-water-talk-may-2024](https://github.com/gavinsimpson/ecos-water-talk-may-2024)
+[github.com/gavinsimpson/rad-gam](https://bit.ly/rad-gam)
 
 .center[
 
 ```{r, fig.align = "center", out.width="45%"}
-knitr::include_graphics("resources/bit.ly_water-talk-2024.png")
+knitr::include_graphics("resources/bit.ly_isec-rad.png")
 ```
 ]
