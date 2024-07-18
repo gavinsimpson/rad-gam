@@ -1,0 +1,24 @@
+BM	Bromus madritensis
+VM	Vulpia microstachys
+BH	Bromus hordaeceus
+AS	Allium serra
+DC	Dichelostemma capitatum
+EN	Eriogonum nudum
+AP	Athysanus pusillus
+LN	Lepidium nitidum
+GS	Gilia sinistra
+ME	Microseris elegans
+GC	Grindelia camporum
+LH	Lotus humistratus
+PE	Plantago erecta
+PS	Pinus sabiniana
+MD1	Minuartia douglasii
+LC	Lasthensia californica
+EE	Elymus elymoides
+AF	Ancistrocarphus filagineus
+LB	Lupinus bicolor
+MD2	Microseris douglasii
+CP	Calycadenia panciflora
+UT	Unidentified tarweed
+R	Unidentified yellow composite
+US	Unidentified sawtooth plant
